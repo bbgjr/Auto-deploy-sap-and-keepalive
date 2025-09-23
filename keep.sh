@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # 环境变量配置
-EMAIL="xxxxx@xxxx.com"   # 登录邮箱
-PASSWORD="xxxxxxxxx"     # 登录密码
+EMAIL="g175773823@gmail.com"   # 登录邮箱
+PASSWORD="Gjr@650801"     # 登录密码
 
 # 要保活的URL列表,多个用英文空格分隔
 URLS="https://xxxx.cfapps.ap21.hana.ondemand.com https://xxxx.cfapps.us10-001.hana.ondemand.com"  
